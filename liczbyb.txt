@@ -1,0 +1,2 @@
+Liczba par bliüniaczych: 8169
+Liczba liczb bliüniaczych: 16337

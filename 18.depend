@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571346926 source:c:\users\micha\onedrive\pulpit\code blocks\18\main.cpp
+	<iostream>
+
+1584121140 source:c:\users\micha\onedrive\pulpit\programowanie\code blocks\18\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
